@@ -7,3 +7,4 @@ The following is the input usb descriptor file:
 
 Among them, the first 18 bytes are the device descriptor, and the latter is the config descriptor. Insert the above file as a real or simulated USB device into a host using the linux kernel (It is currently certain that kernel version <=5.6.19. The result of the vulnerability triggering situation is shown in the figure below:
 ![image](https://github.com/wanrenmi/bug2_5.6.19/assets/42407501/6a3a98ae-ab9f-4cce-b58c-a38aff21eb20)
+![image](https://github.com/wanrenmi/bug2_5.6.19/assets/42407501/7408611e-0e30-45cc-bdfe-54b9c6d5b2f6)
